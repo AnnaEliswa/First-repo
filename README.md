@@ -1,4 +1,4 @@
-# Task_1
+# First-repo
 1.Repository-
 <br>
 It is a place where we can store our codes, files and file history. It is the most basic element of GitHub and it can be local or remote.
